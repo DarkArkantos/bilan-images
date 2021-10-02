@@ -1,0 +1,28 @@
+{
+    "description": "All stats retrieved successfully",
+    "result": [
+        {
+            "context": "<p>Se mide el tiempo de vaciado del agua de un tanque a través de una llave conectada al fondo del mismo. La siguiente tabla muestra los resultados de este experimento, tomados para tres llaves de diferentes diámetros y para el tanque lleno hasta determinada altura. </p><img src=\"https://raw.githubusercontent.com/DarkArkantos/bilan-images/main/MAUI.png\" />",
+            "questions": [
+                {
+                    "id": 1,
+                    "isMultiple": true,
+                    "title": "Formulación y ejecución",
+                    "difficulty": 3,
+                    "statement": "<p>Con base en los datos registrados en la tabla sobre la dependencia del tiempo de vaciado y tomando en cuenta el diámetro de la llave y la altura del agua, se puede afirmar que</p><img src=\"https://raw.githubusercontent.com/DarkArkantos/bilan-images/main/MAUI.png\"/>",
+                    "answers":[
+                        {
+                            "id": 1,
+                            "statement": "a. Disminuye más cuando el diámetro de la llave aumenta 1 cm que cuando se reduce la altura del nivel del agua en 10 cm."
+                        },
+                        {
+                            "id": 2,
+                            "statement": "b.    Disminuye más cuando el diámetro de la llave reduce 1 cm que cuando se reduce la altura del nivel del agua en 10 cm."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "code": 200
+}

@@ -1,0 +1,27 @@
+{
+    "description": "All stats retrieved successfully",
+    "result": [
+        {
+            "id": 1,
+            "name": "fuego",
+            "culture": "No me acuerdo",
+            "element": "fire?",
+            "adjacentTribe": 2,
+            "oppositeTribe": 5,
+            "actions": [
+                {
+                    "id": 1,
+                    "name": "Espiritual",
+                    "imagePath" : "https://asdfasdf.com",
+                    "challenges":[
+                        {
+                            "id": 1,
+                            "name": "challenge1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "code": 200
+}

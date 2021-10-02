@@ -1,0 +1,31 @@
+{
+    "description": "All stats retrieved successfully",
+    "result": {
+        "generalTotems": 10,
+        "criticalTotems": 10,
+        "analyticalTotems": 10,
+        "currentSpirits": 3,
+        "currentCycle": 1,
+        "tribesPoints": [
+            {
+                "id": 1,
+                "score": 300,
+                "actionsPoints": [
+                    {
+                        "id": 1,
+                        "score": 100
+                    },
+                    {
+                        "id": 2,
+                        "score": 100
+                    },
+                    {
+                        "id": 2,
+                        "score": 100
+                    }
+                ]
+            }
+        ]
+    },
+    "code": 200
+}
